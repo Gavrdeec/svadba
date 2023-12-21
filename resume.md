@@ -1,4 +1,4 @@
-Sonya Sawtelle
+Nikita Tikhan
 ======
 
 #### Data enthusiast with a strong background in math, science and programming. 
